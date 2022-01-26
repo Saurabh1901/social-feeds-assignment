@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "61f13629533dbbe954a1aff0"
+  },
+  "title": "Tiger",
+  "content": "The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates such as deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat, which support its requirements for prey and rearing of its offspring. Tiger cubs stay with their mother for about two years, then become independent and leave their mother's home range to establish their own.",
+  "createdAt": 1643197984,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f13b29533dbbe954a1affc"
+  },
+  "title": "Elon Musk",
+  "content": "Elon Reeve Musk FRS (/ˈiːlɒn/; born June 28, 1971) is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early-stage investor, CEO, and Product Architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. With an estimated net worth of around US$243 billion as of January 2022,[2] Musk is the wealthiest person in the world according to both the Bloomberg Billionaires Index and the Forbes real-time billionaires list.",
+  "createdAt": 1643199270,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f13be85d1b69181e94e6bc"
+  },
+  "title": "Mark Zukerberg",
+  "content": "Mark Elliot Zuckerberg (/ˈzʌkərbɜːrɡ/; born May 14, 1984) is an American media magnate, internet entrepreneur, and philanthropist. He is known for co-founding the social media website Facebook and its parent company Meta (formerly, Facebook, Inc.), of which he is the chairman, chief executive officer, and controlling shareholder.",
+  "createdAt": 1643199462,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f13de15d1b69181e94e6c5"
+  },
+  "title": "Tata Motars",
+  "content": "Tata Motors Limited is an Indian multinational automotive manufacturing company, headquartered in the city of Mumbai, India which is part of Tata Group. The company produces passenger cars, trucks, vans, coaches, buses, luxury cars, sports cars, construction equipment. ",
+  "createdAt": 1643199964,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f13eb65d1b69181e94e6c8"
+  },
+  "title": "Tesla",
+  "content": "Tesla, Inc. is an American electric vehicle and clean energy company based in Austin, Texas, United States. Tesla designs and manufactures electric cars, battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services. ",
+  "createdAt": 1643200176,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1400b5d1b69181e94e6cd"
+  },
+  "title": "Apple",
+  "content": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software and online services. Apple is the largest information technology company by revenue (totaling US$365.8 billion in 2021) and, as of January 2021, it is the world's most valuable company, the fourth-largest personal computer vendor by unit sales and second-largest mobile phone manufacturer. It is one of the Big Five American information technology companies, alongside Amazon, Alphabet Inc. (Google), Meta Platforms (Facebook), and Microsoft.",
+  "createdAt": 1643200522,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f140205d1b69181e94e6cf"
+  },
+  "title": "Google",
+  "content": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. It is considered one of the Big Five companies in the American information technology industry, along with Amazon, Apple, Meta (Facebook) and Microsoft.",
+  "createdAt": 1643200543,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f140345d1b69181e94e6d1"
+  },
+  "title": "Facebook",
+  "content": "Facebook is an American online social media and social networking service owned by Meta Platforms. Founded in 2004 by Mark Zuckerberg with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name comes from the face book directories often given to American university students. Membership was initially limited to Harvard students, gradually expanding to other North American universities and, since 2006, anyone over 13 years old. As of 2020, Facebook claimed 2.8 billion monthly active users,[2] and ranked seventh in global internet usage.[7] It was the most downloaded mobile app of the 2010s",
+  "createdAt": 1643200563,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f140be5d1b69181e94e6d7"
+  },
+  "title": "Meta Platform",
+  "content": "Meta Platforms, Inc.,[11][12] doing business as Meta[13] and formerly known as Facebook, Inc.,[14] is an American multinational technology conglomerate based in Menlo Park, California. The company is the parent organization of Facebook, Instagram, and WhatsApp, among other subsidiaries.[15] Meta is one of the world's most valuable companies and is considered one of the Big Tech companies in U.S. information technology, alongside Amazon, Google (Alphabet Inc), Apple, and Microsoft.[16] The company generates a substantial share of its revenue from the sale of advertisement placements to marketers",
+  "createdAt": 1643200700,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f140fb5d1b69181e94e6d9"
+  },
+  "title": "Messenger",
+  "content": "Messenger[11] is an instant messaging app and platform developed by Facebook (now Meta Platforms). Originally developed as Facebook Chat in 2008, the company revamped its messaging service in 2010, released standalone iOS and Android apps in 2011, and released standalone Facebook Portal hardware for Messenger calling in 2018. Later,[when?] Facebook launched a dedicated website interface, Messenger.com, and separated the messaging functionality from the main Facebook app, allowing users to use the web interface or download one of the standalone apps. In April 2020, Facebook released a Messenger desktop app for Windows and macOS.",
+  "createdAt": 1643200762,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f141145d1b69181e94e6db"
+  },
+  "title": "Facebook Watch",
+  "content": "Facebook Watch is an American video-on-demand service operated by Meta Platforms (then known as Facebook, Inc.). It was announced on August 9, 2017, with initial availability the next day and with rollout to all U.S. users by the end of the month. Facebook Watch's original video content is produced for the company by partners, who earn 55% of advertising revenue.",
+  "createdAt": 1643200787,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f141425d1b69181e94e6dd"
+  },
+  "title": "Apple Watch",
+  "content": "Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services.\nThe Apple Watch was released in April 2015[18][19] and quickly became the best-selling wearable device: 4.2 million were sold in the second quarter of fiscal 2015,[20][21] and more than 100 million people were estimated to use an Apple Watch as of December 2020.[22] Apple has introduced new generations of the Apple Watch with improved internal components each September[23][24][25][26]—each labeled by Apple a 'Series', with certain exceptions.",
+  "createdAt": 1643200833,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1416c5d1b69181e94e6df"
+  },
+  "title": "MacBook",
+  "content": "The MacBook is a brand of Macintosh notebook computers designed and marketed by Apple Inc. that use Apple's macOS operating system since 2006. It replaced the PowerBook and iBook brands during the Mac transition to Intel processors, announced in 2005. The current lineup consists of the MacBook Air (2008–present) and the MacBook Pro (2006–present). Two different lines simply named \"MacBook\" existed from 2006 to 2012 and 2015 to 2019.",
+  "createdAt": 1643200875,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f141845d1b69181e94e6e1"
+  },
+  "title": "AirPods",
+  "content": "AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016 alongside the iPhone 7. Within two years, they became Apple's most popular accessory.[3][4] They are Apple's entry-level wireless headphones, sold alongside the AirPods Pro and AirPods Max.",
+  "createdAt": 1643200899,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f141a55d1b69181e94e6e3"
+  },
+  "title": "iMac",
+  "content": "iMac is a family of all-in-one Macintosh desktop computers designed and built by Apple Inc. It has been the primary part of Apple's consumer desktop offerings since its debut in August 1998, and has evolved through seven distinct forms",
+  "createdAt": 1643200931,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f141ca5d1b69181e94e6e5"
+  },
+  "title": "iPhone",
+  "content": "The iPhone is a line of smartphones designed and marketed by Apple Inc. that use Apple's iOS mobile operating system. The first-generation iPhone was announced by then-Apple CEO Steve Jobs on January 9, 2007. Since then, Apple has annually released new iPhone models and iOS updates. As of November 1, 2018, more than 2.2 billion iPhones had been sold.",
+  "createdAt": 1643200969,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f141f35d1b69181e94e6e7"
+  },
+  "title": "AirTag",
+  "content": "AirTag is a tracking device developed by Apple. AirTag is designed to act as a key finder, helping people find personal objects (e.g. keys, bags, apparel, small electronic devices, vehicles). To locate lost items, AirTags use Apple's crowdsourced Find My network, estimated in early 2021 to consist of approximately one billion devices worldwide that detect and anonymously report emitted Bluetooth signals.[2] AirTags are compatible with any iPhone, iPad, or iPod Touch device capable of running iOS/iPadOS 14.5 or later. Using the built-in U1 chip on iPhone 11 or later (excluding iPhone SE 2nd generation), users can more precisely locate items using UWB (ultra-wideband) technology. AirTag was announced on April 20, 2021, made available for pre-order on April 23, and released on April 30",
+  "createdAt": 1643201010,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f169dcea98c1d02b2a9bee"
+  },
+  "title": "Nasa",
+  "content": "The National Aeronautics and Space Administration (NASA; /ˈnæsə/) is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and space research.[note 1]\n\nNASA was established in 1958, succeeding the National Advisory Committee for Aeronautics (NACA). The new agency was to have a distinctly civilian orientation, encouraging peaceful applications in space science.[7][8][9] Since its establishment, most US space exploration efforts have been led by NASA, including the Apollo Moon landing missions, the Skylab space station, and later the Space Shuttle. NASA is supporting the International Space Station and is overseeing the development of the Orion spacecraft, the Space Launch System, Commercial Crew vehicles, and the planned Lunar Gateway space station. The agency is also responsible for the Launch Services Program, which provides oversight of launch operations and countdown management for uncrewed NASA launches.",
+  "createdAt": 1643211226,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f17e25ea98c1d02b2a9cea"
+  },
+  "title": "LinkedIn",
+  "content": "LinkedIn (/lɪŋktˈɪn/) is an American business- and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003,[4] the platform is primarily used for professional networking and career development, and allows job seekers to post their CVs and employers to post jobs. As of 2015, most of the company's revenue came from selling access to information about its members to recruiters and sales professionals.[5] Since December 2016, it has been a wholly owned subsidiary of Microsoft. As of September 2021, LinkedIn has 774+ million registered members from over 200 countries and territories.",
+  "createdAt": 1643216419,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f17ee3ea98c1d02b2a9cf6"
+  },
+  "title": "Yocket - Study Abroad",
+  "content": "Founded in 2015, Yocket is today the largest community-driven online platform for international education. We help students aspiring to study abroad by connecting them to the best universities in the world. To date, we have helped more than 600,000 students plan their international education.\n",
+  "createdAt": 1643216609,
+  "__v": 0
+}]
