@@ -16,12 +16,6 @@
  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="node" />&nbsp;&nbsp; 
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
 
-<!--   <a href="#">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a> -->
   <a href="https://github.com/Saurabh1901/master/LICENSE" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -36,7 +30,9 @@
 
 ### 🏠 [Homepage](https://github.com/Saurabh1901/hotel-booking#readme)
 
-### ✨ [Working Video (Download and Watch)](https://github.com/Saurabh1901/hotel-booking/blob/main/Working%20Video/App%20Working.mov?raw=true)
+### ✨ [Working Video (Download and Watch)](https://github.com/Saurabh1901/social-feeds-assignment/blob/master/Demo%20Video/AssignmentVideo.webm?raw=true)
+
+### ✨ [Assessment Question/Answer (Download and Read)](https://github.com/Saurabh1901/social-feeds-assignment/blob/master/Question-Answer/Assignment.pdf)
 ## Database
 ``` import the database```
 ## Install
